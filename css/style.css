@@ -1,0 +1,9 @@
+#mycol {
+    background-color: rgb(0, 255, 200);
+    text-align: center;
+}
+
+.myContent {
+    height: 500px;
+    text-align: center;
+}
