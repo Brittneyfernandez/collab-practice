@@ -1,11 +1,11 @@
-.col-4{
-    background-color: aqua;
+#mycol {
+    background-color: blue;
 }
 
-.col-6{
-    background-color:lightcoral;
+.myCustomClass {
+    background-color: red;
 }
 
-.col-9{
-    background-color:black;
+.myContent {
+    height: 500px;
 }
